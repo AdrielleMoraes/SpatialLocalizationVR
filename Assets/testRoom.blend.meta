@@ -1,0 +1,568 @@
+fileFormatVersion: 2
+guid: f89692fad7a89874d9eb4da58d28205d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube_001
+    100004: Cube_002
+    100006: Cube_003
+    100008: Cube_004
+    100010: Cube_005
+    100012: Cube_006
+    100014: Cube_007
+    100016: Cube_008
+    100018: Cube_009
+    100020: Cube_010
+    100022: Cylinder_003
+    100024: door
+    100026: door_Handle
+    100028: door_Mech
+    100030: door_Warning
+    100032: doorArm1
+    100034: doorArm2
+    100036: doorHandle
+    100038: doorMech2
+    100040: doorMech3
+    100042: doorWindow
+    100044: doorWindowRim
+    100046: flooring
+    100048: flooringRim_001
+    100050: //RootNode
+    100052: radiater
+    100054: radKnobs
+    100056: radKnobs_001
+    100058: radPipe1_001
+    100060: ROOF
+    100062: socket
+    100064: socket2
+    100066: socketDoublee
+    100068: Walls
+    100070: windowHandle
+    100072: windowHandle_001
+    100074: windowHandle_002
+    100076: windowMainBottom
+    100078: windowMainFrame
+    100080: windowMainLeft
+    100082: windowMainRight
+    100084: windowMainTop
+    100086: windowSmall_001
+    100088: windowSmallBottom
+    100090: windowSmallTop
+    100092: doorHinge
+    100094: roof
+    100096: skyLight
+    100098: skyLight2
+    100100: skyLight3
+    100102: skyLightL1
+    100104: skyLightL2
+    100106: skyLightL3
+    100108: termo
+    100110: walls
+    100112: windowMainBlind
+    100114: skyLightL3_001
+    100116: skyLightBox
+    400000: Cube
+    400002: Cube_001
+    400004: Cube_002
+    400006: Cube_003
+    400008: Cube_004
+    400010: Cube_005
+    400012: Cube_006
+    400014: Cube_007
+    400016: Cube_008
+    400018: Cube_009
+    400020: Cube_010
+    400022: Cylinder_003
+    400024: door
+    400026: door_Handle
+    400028: door_Mech
+    400030: door_Warning
+    400032: doorArm1
+    400034: doorArm2
+    400036: doorHandle
+    400038: doorMech2
+    400040: doorMech3
+    400042: doorWindow
+    400044: doorWindowRim
+    400046: flooring
+    400048: flooringRim_001
+    400050: //RootNode
+    400052: radiater
+    400054: radKnobs
+    400056: radKnobs_001
+    400058: radPipe1_001
+    400060: ROOF
+    400062: socket
+    400064: socket2
+    400066: socketDoublee
+    400068: Walls
+    400070: windowHandle
+    400072: windowHandle_001
+    400074: windowHandle_002
+    400076: windowMainBottom
+    400078: windowMainFrame
+    400080: windowMainLeft
+    400082: windowMainRight
+    400084: windowMainTop
+    400086: windowSmall_001
+    400088: windowSmallBottom
+    400090: windowSmallTop
+    400092: doorHinge
+    400094: roof
+    400096: skyLight
+    400098: skyLight2
+    400100: skyLight3
+    400102: skyLightL1
+    400104: skyLightL2
+    400106: skyLightL3
+    400108: termo
+    400110: walls
+    400112: windowMainBlind
+    400114: skyLightL3_001
+    400116: skyLightBox
+    2300000: Cube
+    2300002: Cube_001
+    2300004: Cube_002
+    2300006: Cube_003
+    2300008: Cube_004
+    2300010: Cube_005
+    2300012: Cube_006
+    2300014: Cube_007
+    2300016: Cube_008
+    2300018: Cube_009
+    2300020: Cube_010
+    2300022: Cylinder_003
+    2300024: door
+    2300026: door_Handle
+    2300028: door_Mech
+    2300030: door_Warning
+    2300032: doorArm1
+    2300034: doorArm2
+    2300036: doorHandle
+    2300038: doorMech2
+    2300040: doorMech3
+    2300042: doorWindow
+    2300044: doorWindowRim
+    2300046: flooring
+    2300048: flooringRim_001
+    2300050: radiater
+    2300052: radKnobs
+    2300054: radKnobs_001
+    2300056: radPipe1_001
+    2300058: ROOF
+    2300060: socket
+    2300062: socket2
+    2300064: socketDoublee
+    2300066: Walls
+    2300068: windowHandle
+    2300070: windowHandle_001
+    2300072: windowHandle_002
+    2300074: windowMainBottom
+    2300076: windowMainFrame
+    2300078: windowMainLeft
+    2300080: windowMainRight
+    2300082: windowMainTop
+    2300084: windowSmall_001
+    2300086: windowSmallBottom
+    2300088: windowSmallTop
+    2300090: doorHinge
+    2300092: roof
+    2300094: skyLight
+    2300096: skyLight2
+    2300098: skyLight3
+    2300100: skyLightL1
+    2300102: skyLightL2
+    2300104: skyLightL3
+    2300106: termo
+    2300108: walls
+    2300110: windowMainBlind
+    2300112: skyLightL3_001
+    2300114: skyLightBox
+    3300000: Cube
+    3300002: Cube_001
+    3300004: Cube_002
+    3300006: Cube_003
+    3300008: Cube_004
+    3300010: Cube_005
+    3300012: Cube_006
+    3300014: Cube_007
+    3300016: Cube_008
+    3300018: Cube_009
+    3300020: Cube_010
+    3300022: Cylinder_003
+    3300024: door
+    3300026: door_Handle
+    3300028: door_Mech
+    3300030: door_Warning
+    3300032: doorArm1
+    3300034: doorArm2
+    3300036: doorHandle
+    3300038: doorMech2
+    3300040: doorMech3
+    3300042: doorWindow
+    3300044: doorWindowRim
+    3300046: flooring
+    3300048: flooringRim_001
+    3300050: radiater
+    3300052: radKnobs
+    3300054: radKnobs_001
+    3300056: radPipe1_001
+    3300058: ROOF
+    3300060: socket
+    3300062: socket2
+    3300064: socketDoublee
+    3300066: Walls
+    3300068: windowHandle
+    3300070: windowHandle_001
+    3300072: windowHandle_002
+    3300074: windowMainBottom
+    3300076: windowMainFrame
+    3300078: windowMainLeft
+    3300080: windowMainRight
+    3300082: windowMainTop
+    3300084: windowSmall_001
+    3300086: windowSmallBottom
+    3300088: windowSmallTop
+    3300090: doorHinge
+    3300092: roof
+    3300094: skyLight
+    3300096: skyLight2
+    3300098: skyLight3
+    3300100: skyLightL1
+    3300102: skyLightL2
+    3300104: skyLightL3
+    3300106: termo
+    3300108: walls
+    3300110: windowMainBlind
+    3300112: skyLightL3_001
+    3300114: skyLightBox
+    4300000: ROOF
+    4300002: Cube
+    4300004: Cube_004
+    4300006: Cube_003
+    4300008: radKnobs
+    4300010: doorArm1
+    4300012: doorMech3
+    4300014: doorHandle
+    4300016: door_Handle
+    4300018: door_Warning
+    4300020: socket
+    4300022: door_Mech
+    4300024: windowMainTop
+    4300026: windowMainRight
+    4300028: windowSmallBottom
+    4300030: radPipe1_001
+    4300032: Cylinder_003
+    4300034: doorArm2
+    4300036: doorMech2
+    4300038: radiater
+    4300040: radKnobs_001
+    4300042: socket2
+    4300044: socketDoublee
+    4300046: windowHandle
+    4300048: flooring
+    4300050: flooringRim_001
+    4300052: windowMainLeft
+    4300054: windowHandle_001
+    4300056: windowHandle_002
+    4300058: windowMainBottom
+    4300060: windowMainFrame
+    4300062: windowSmallTop
+    4300064: windowSmall_001
+    4300066: Walls
+    4300068: doorWindow
+    4300070: doorWindowRim
+    4300072: door
+    4300074: Cube_001
+    4300076: Cube_002
+    4300078: Cube_006
+    4300080: Cube_007
+    4300082: Cube_008
+    4300084: Cube_005
+    4300086: Cube_009
+    4300088: Cube_010
+    4300090: roof
+    4300092: skyLight
+    4300094: termo
+    4300096: windowMainBlind
+    4300098: doorHinge
+    4300100: walls
+    4300102: skyLight2
+    4300104: skyLight3
+    4300106: skyLightL1
+    4300108: skyLightL2
+    4300110: skyLightL3
+    4300112: skyLightL3_001
+    4300114: skyLightBox
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor__floor_jpg
+    second: {fileID: 2100000, guid: ba5b93ecc754fc741a41c98c2ef918a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 7fd26407e2d29624680f78e6222d80a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002
+    second: {fileID: 2100000, guid: dbfb718b6b904494696b8aed85b646f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_003
+    second: {fileID: 2100000, guid: 678e146a379d8444c84f6325ada32206, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_005
+    second: {fileID: 2100000, guid: 20e0f094fa53e4e4aba7705d1e6b36ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_007
+    second: {fileID: 2100000, guid: 36897c807a7fbc943930c5e56992aafd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_008
+    second: {fileID: 2100000, guid: 193e6cb0f9c30fc4c84c62d558f51906, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_009
+    second: {fileID: 2100000, guid: 842ff25975f133a4695adadf864166c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_010
+    second: {fileID: 2100000, guid: ea247d38de8dadf469dbc355a5bac8ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_011
+    second: {fileID: 2100000, guid: fe0fabf6c96c30644ba34a994f291a60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_012
+    second: {fileID: 2100000, guid: 10547897ddd5f3c4294acbbbea0e6e19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_013__Untitled
+    second: {fileID: 2100000, guid: 013f71a16f485c146b69c22ac1b777a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_013__fireDoor_png
+    second: {fileID: 2100000, guid: 1e70a4dbf34d36a49b36ed02eaffeedf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_014
+    second: {fileID: 2100000, guid: 01208268890752c479ba956df20777ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_015
+    second: {fileID: 2100000, guid: 94c2c6866767d504583943b752cd5340, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_016
+    second: {fileID: 2100000, guid: 2d87c958929d0a048868b1d7d2efe4c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_017
+    second: {fileID: 2100000, guid: 0dd44690cff15c144a41e8a7599e3144, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_018
+    second: {fileID: 2100000, guid: 77201ac1ac03f9240badc1f506b92182, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_019
+    second: {fileID: 2100000, guid: d60c492e68f846243bc1b2db1ec350cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_020
+    second: {fileID: 2100000, guid: 4d14ecb289a10124eba48343a8db860b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_021
+    second: {fileID: 2100000, guid: a03e187a51d663e469607f31bd2078fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_022
+    second: {fileID: 2100000, guid: 6bd83c64da5bcf341b6acc402b78b3dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_023
+    second: {fileID: 2100000, guid: 18ddcfb6da27b1d4c9b31d17aacd0b1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_024
+    second: {fileID: 2100000, guid: 0d5d620aef6bb2943a2664ea351de6c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_025
+    second: {fileID: 2100000, guid: 099473bda4b18354f9ee85b4e77720da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_026
+    second: {fileID: 2100000, guid: e4ca30e07b6528f4aad64bcd9b7cfeda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_027
+    second: {fileID: 2100000, guid: c3a2441accf6a7d409d2dbd7154f883d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_028
+    second: {fileID: 2100000, guid: 9495b5d8178a71b4985d5a421128dd18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_029
+    second: {fileID: 2100000, guid: c1635356e10a41f429be12b4ab761ab1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_030
+    second: {fileID: 2100000, guid: 1c4c469afa537294687e2c8a515eb21e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_031
+    second: {fileID: 2100000, guid: 013b60089dc71c34f975e7c7b85ff821, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Walls
+    second: {fileID: 2100000, guid: 8490e1d602fb6454da1cd9d0795a7e97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: concreate__00014-dirt-cinder-block-texture-seamless-hr_jpg
+    second: {fileID: 2100000, guid: c68f27796b3277540bccb1bf7be07073, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floorRim
+    second: {fileID: 2100000, guid: fd7fca883a694e0488eba25dc21e5360, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: radPaint
+    second: {fileID: 2100000, guid: aaad34bec9046594a817a6eb3ff250bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: b17da8a7273e0bf47834047a8e63342a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: windowFrame
+    second: {fileID: 2100000, guid: 765afb30cf47dc742b7115e84356ccc1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
