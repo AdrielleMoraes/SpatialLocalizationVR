@@ -73,17 +73,19 @@ public class SpheresManager : MonoBehaviour
             {
                 //add selection events
                 ss.AddComponent<SelectWithGaze>();
+                continue;
             }
             if (TestType == TypeOfTest.PointerPointingTest)
             {
                 //add selection events
                 ss.AddComponent<SelectWithPointer>();
-                //button.GetComponent<SelectWithPointer>().enabled = true;
+                continue;
             }
             if (TestType == TypeOfTest.MouseTest)
             {
                 //add selection events
                 ss.AddComponent<SelectWithMouse>();
+                continue;
             }
         }
     }
@@ -93,7 +95,7 @@ public class SpheresManager : MonoBehaviour
     /// <summary>
     /// Function to generate a new DataTable and add its headers
     /// </summary>
-    public void GenerateDT()
+    private void GenerateDT()
     {
         soundDT = new DataTable();
         //Add columns 
@@ -187,10 +189,11 @@ public class SpheresManager : MonoBehaviour
     //Function to handle events
     public void SphereSelection(GameObject G)
     {
-        G.GetComponent<SoundSource>().StartFlick(false);
+        Debug.Log(G.name);
         // For the tutorial phase
         if (!isTesting)
         {
+            G.GetComponent<SoundSource>().StartFlick(false);
             sphere.StopFlickering();
             tutorialTrials++;
             tutorial.SetActive(false);
@@ -207,7 +210,7 @@ public class SpheresManager : MonoBehaviour
         if (isPlayed && !audioData[0].isPlaying && !feedbackRunning)
         {
             CheckInput(G);
-
+            G.GetComponent<SoundSource>().StartFlick(false);
             //if the listener selected the wrong sphere
             if (G.name != sphere.name)
             {
